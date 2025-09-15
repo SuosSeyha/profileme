@@ -4,11 +4,11 @@
   "avatar": "https://i.imgur.com/abcd123.jpg",
   "links": [
     {"name": "Facebook", "url": "https://www.facebook.com/suos.seyha.2025", "isshow": true},
-    {"name": "Instagram", "url": "https://www.instagram.com/s___seyha/?__pwa=1", "isshow": true},
+    {"name": "Instagram", "url": "https://www.instagram.com/s___seyha/?__pwa=1", "isshow": false},
     {"name": "YouTube", "url": "https://www.youtube.com/@suos_seyha/featured", "isshow": true},
     {"name": "GitHub", "url": "https://github.com/SuosSeyha", "isshow": true},
     {"name": "Telegram", "url": "https://t.me/suos_seyha", "isshow": true},
     {"name": "LinkedIn", "url": "https://www.linkedin.com/in/seyha-suos-121687296/", "isshow": true},
-    {"name": "Fundamental AI Analysis", "url": "https://ai-analytics-fundamental-mzy4g4tbh4ay9zmdmakxwp.streamlit.app/", "isshow": true}
+    {"name": "Fundamental AI Analysis", "url": "https://ai-analytics-fundamental-mzy4g4tbh4ay9zmdmakxwp.streamlit.app/", "isshow": false}
   ]
 }
