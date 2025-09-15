@@ -1,9 +1,10 @@
 {
   "name": "Hi I'm Seyha",
-  "bio": "Turning market movements into insights and lines of code into impactful tools🤖🚀",
+  "bio": "Turning ideas into apps and creating digital tools that make life simpler and smarter.🤖🚀",
   "avatar": "https://i.imgur.com/abcd123.jpg",
   "links": [
     {"name": "Facebook", "url": "https://www.facebook.com/suos.seyha.2025", "isshow": true},
+    {"name": "Instagram", "url": "https://www.instagram.com/s___seyha/?__pwa=1", "isshow": true},
     {"name": "YouTube", "url": "https://www.youtube.com/@suos_seyha/featured", "isshow": true},
     {"name": "GitHub", "url": "https://github.com/SuosSeyha", "isshow": true},
     {"name": "Telegram", "url": "https://t.me/suos_seyha", "isshow": true},
