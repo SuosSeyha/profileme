@@ -9,6 +9,6 @@
     {"name": "GitHub", "url": "https://github.com/SuosSeyha", "isshow": true},
     {"name": "Telegram", "url": "https://t.me/suos_seyha", "isshow": true},
     {"name": "LinkedIn", "url": "https://www.linkedin.com/in/seyha-suos-121687296/", "isshow": true},
-    {"name": "Fundamental AI Analysis", "url": "https://ai-analytics-fundamental-mzy4g4tbh4ay9zmdmakxwp.streamlit.app/", "isshow": false}
+    {"name": "SHA256 AI", "url": "https://ai-analytics-fundamental-mzy4g4tbh4ay9zmdmakxwp.streamlit.app/", "isshow": true}
   ]
 }
